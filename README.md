@@ -2,7 +2,7 @@
 
 欄位 | 內容
 -----|--------
-學生 |  陳鍾誠
+學生 | 外校學生自學
 學號末兩碼 | 
 教師 | [陳鍾誠](https://gitlab.com/ccckmit/course/wikis/home)
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
